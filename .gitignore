@@ -1,0 +1,4 @@
+venv/
+.idea
+**__pycatch__/
+*.pyc
